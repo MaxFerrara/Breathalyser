@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Breathalyser</string>
+    <string name="new_calculation">new calculation</string>
+</resources>
